@@ -1,5 +1,7 @@
-# odin-recipes
-It's a web page that contains the recipe's informations and there ingridiands and steps to make them well. It contain informations of three dishes,and the way to make along with images of the finished dises.And the skills that i have learned to make this web site is listed below.
+# odi images of the finished dises.And the skills that i have learned to make this web site is listed below
+
+It's a web page that contains the recipe's   informations and there ingridiands and steps to make them well. It contain informations of three dishes,and the way to make along with images of the finished dises.And the skills that i have learned to make this web site is listed below.
+>>>>>>> 49bf3b6 (complete initial version of project)
  
 HTML elements used in this project
 1.paragraph element
